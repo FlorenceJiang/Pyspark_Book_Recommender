@@ -18,3 +18,9 @@ We also developed the following extensions:
    - *Comparison to single-machine implementations*: compare Spark's parallel ALS model to a single-machine implementation [lightfm](https://github.com/lyst/lightfm).
   - *Fast search*: use a spatial data structure (LSH) to implement accelerated search at query time. We used an existing library [annoy](https://github.com/spotify/annoy).
   - *Exploration*: use the learned representation to develop a visualization of the items and users. We used [UMAP](https://arxiv.org/abs/1802.03426).
+
+# Contributors
+
+This repo could exist thanks to the following contributors:
+* Diwen Lu [profile](https://www.linkedin.com/in/diwen-lu/)
+* Xiaocheng Li
